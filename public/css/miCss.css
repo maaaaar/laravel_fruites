@@ -1,0 +1,18 @@
+.myCard {
+    width: 250px;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    /* display: inline-block; */
+}
+
+.myCard-img {
+    width: 150px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
